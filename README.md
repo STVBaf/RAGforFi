@@ -351,13 +351,7 @@ RAGforFi/
 │   ├── generator.py    # LLM 答案生成
 │   ├── financebench.py # FinanceBench 数据集加载
 │   └── pipeline.py     # RAG Pipeline 封装
-├── dataset/            # 数据集缓存
-├── indices/            # 索引文件 (vectors.npy, bm25.pkl)
-└── results/            # 可视化结果
-    ├── ablation_chart.png
-    ├── topk_analysis.png
-    ├── component_impact.png
-    └── rag_vs_oracle.png
+
 ```
 
 ---
